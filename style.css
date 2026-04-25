@@ -31,12 +31,8 @@ nav:hover {
 
 /* ===== LOGO ===== */
 .logo {
-    font-size: 1rem;
-    font-weight: 700;
-    color: #00ffff;
-    letter-spacing: 1px;
-    cursor: pointer;
-    transition: 0.3s ease;
+    height: 10vh;
+    border-radius: 50%;
 }
 
 /* ===== NAV LINKS ===== */
